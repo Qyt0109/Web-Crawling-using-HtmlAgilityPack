@@ -6,3 +6,6 @@
 <p>The need for web data crawling has been on the rise in the past few years.</p>
 <p>The data crawled can be used for evaluation or prediction purposes under different circumstances, such as market analysis, price monitoring, lead generation, etc.</p>
 <p>Here, I’d like to introduce way to crawl data from <a href="https://stackoverflow.com/questions">Stack Overflow's newest questions</a> section</p>
+<hr>
+<h4>Screenshot</h4>
+<img src="https://github.com/Qyt0109/Web-Crawling-using-HtmlAgilityPack/blob/main/Image/Pic0.png">
